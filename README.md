@@ -3,15 +3,11 @@
 **Full-Stack Developer**  
 MERN · React · Next.js · Backend Engineering
 
----
-
 ## Profile
 
 I build reliable full-stack systems with a strong backend foundation.
 
 My focus is on clean APIs, predictable data flow, and frontend applications that stay simple as complexity grows. I work across the stack but prioritize system stability, clarity, and long-term maintainability.
-
----
 
 ## What I work on
 
@@ -22,8 +18,6 @@ My focus is on clean APIs, predictable data flow, and frontend applications that
 - Scalable application architecture
 
 I prefer building systems that are easy to reason about, test, and extend.
-
----
 
 ## Technical expertise
 
@@ -47,8 +41,6 @@ I prefer building systems that are easy to reason about, test, and extend.
 - React
 - Node.js
 
----
-
 ## How I approach development
 
 - I design APIs before UI
@@ -58,8 +50,6 @@ I prefer building systems that are easy to reason about, test, and extend.
 - I optimize only when needed
 
 Good systems stay understandable as they grow.
-
----
 
 ## What you’ll find here
 
@@ -71,22 +61,9 @@ My repositories focus on:
 - Practical full-stack patterns
 - Code meant for production, not demos
 
----
-
 ## Tools & workflow
 
 - Git and GitHub
 - Docker
 - CI/CD pipelines
 - Environment-based configuration
-
----
-
-## Contact
-
-GitHub: https://github.com/haider-malikk  
-LinkedIn: (add when ready)
-
----
-
-![](https://komarev.com/ghpvc/?username=haider-malikk)
