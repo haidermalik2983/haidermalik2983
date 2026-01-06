@@ -22,24 +22,13 @@ I prefer building systems that are easy to reason about, test, and extend.
 ## Technical expertise
 
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
+- React - Next.js - TypeScript - JavaScript - Tailwind CSS
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication and authorization
-- Business logic and data validation
+- Node.js - Express.js - REST APIs - Authentication and authorization - Business logic and data validation
 
 ### Full-stack (MERN)
-- MongoDB
-- Express.js
-- React
-- Node.js
+- MongoDB - Express.js - React - Node.js
 
 ## How I approach development
 
